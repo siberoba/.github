@@ -1,4 +1,4 @@
-<img src="../assets/logo.png" align="left" width="200"/>
+<img src="../assets/siberoba_logo_siyah.png" align="left" width="200"/>
 
 ### `Siber Oba`
 
